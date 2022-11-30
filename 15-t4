@@ -1,0 +1,11 @@
+nums = [3,6,9,12]
+
+print('The current list is',nums)
+
+total=0
+
+for i in  nums:
+    total = total + i 
+    
+
+print(total) 
